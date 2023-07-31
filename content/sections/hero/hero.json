@@ -1,20 +1,20 @@
 {
-  "intro": "Hej",
+  "intro": "Assalamu'alaikum",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/5XP0F7LR_400x400.jpg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Hi.. i'm Nasheh Annafii",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Share more and get more with ",
+    "highlight": "open souce",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "My website will be a place for me to show my learning results.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
